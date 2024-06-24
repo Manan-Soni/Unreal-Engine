@@ -19,17 +19,5 @@
     <td>DirectX 11 or DirectX 12 compatible graphics card</td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
- 
+<a href = https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/ target='_blank'>For more info click here</a>
 </p>
