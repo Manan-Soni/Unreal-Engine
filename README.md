@@ -1,6 +1,6 @@
 <h1>Game designing Using Unreal Engine 5.3</h1>
 
-<h3>Recommended Hardware</h3>
+<h2>Recommended Hardware</h2>
 <table>
   <tr>
     <th>Operating System</th>
@@ -21,3 +21,6 @@
 </table>
 <a href = https://docs.unrealengine.com/4.27/en-US/Basics/InstallingUnrealEngine/RecommendedSpecifications/ target='_blank'>For more info click here</a>
 </p>
+
+<h2> About The Project </h2>
+<p>Welcome to my Unreal Engine 5.3 game design project! This repository showcases my latest game designing project covering concepts such as Material creation, asset management, handling Quixel content, blueprints, etc.</p>
