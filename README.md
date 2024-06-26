@@ -24,3 +24,8 @@
 
 <h2> About The Project </h2>
 <p>Welcome to my Unreal Engine 5.3 game design project! This repository showcases my latest game designing project covering concepts such as Material creation, asset management, handling Quixel content, blueprints, etc.</p>
+<p>Link to the snapshots: <a href='https://drive.google.com/drive/folders/1lIRtRfb2v7NBIixS_tKXWreemdyd8Cfg?usp=drive_link'>https://drive.google.com/drive/folders/1lIRtRfb2v7NBIixS_tKXWreemdyd8Cfg?usp=drive_link</p>
+<br><br>
+<p>
+  If you have any questions or would like to get in touch, please email me at: <a href='mailto:manansoni.ms01@gmail.com'>manansoni.ms01@gmail.com</a>
+</p>
